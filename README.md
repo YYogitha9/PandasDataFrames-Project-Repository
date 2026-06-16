@@ -72,6 +72,3 @@ Applied core Pandas methods to transform and analyse data:
   - Draw meaningful insights from multiple datasets  
 
 ---
-
-## ✅ Conclusion
-This project highlights the use of **Python (Pandas )** as a powerful toolset for **data cleaning, analysis, and visualisation**, building a strong foundation for further work in **data analytics, data science, and business intelligence**.
